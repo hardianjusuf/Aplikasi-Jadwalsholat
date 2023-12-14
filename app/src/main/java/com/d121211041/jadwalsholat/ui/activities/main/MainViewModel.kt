@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
-import com.D121211041.jadwalsholat.data.models.Jadwal
+import com.d121211041.jadwalsholat.data.models.Jadwal
 import com.d121211041.jadwalsholat.MyApplication
 import com.d121211041.jadwalsholat.data.repository.JadwalsholatRepository
 import kotlinx.coroutines.launch

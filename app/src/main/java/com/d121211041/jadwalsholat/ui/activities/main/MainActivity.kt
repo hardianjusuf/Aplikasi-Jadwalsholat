@@ -35,11 +35,11 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.D121211041.jadwalsholat.data.models.Jadwal
 import com.d121211041.jadwalsholat.R
 import com.d121211041.jadwalsholat.ui.activities.detail.DetailActivity
 import com.d121211041.jadwalsholat.ui.theme.D121211041_TUGASAKHIRMOBILETheme
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.d121211041.jadwalsholat.data.models.Jadwal
 
 class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalMaterial3Api::class)

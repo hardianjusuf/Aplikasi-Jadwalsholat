@@ -1,4 +1,4 @@
-package com.D121211041.jadwalsholat.data.models
+package com.d121211041.jadwalsholat.data.models
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
